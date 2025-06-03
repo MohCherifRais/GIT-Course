@@ -1,1 +1,4 @@
 node-modules 
+.Ds-store
+.tmp
+bpm_debug.log
